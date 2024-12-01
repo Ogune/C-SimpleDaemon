@@ -33,6 +33,8 @@ set lazyredraw
 set autowrite
 set autowriteall
 
+set virtualedit=onemore
+
 " Définir updatetime à 1 ms (attention : cela peut être très intensif)
 set updatetime=1
 
