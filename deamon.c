@@ -8,7 +8,7 @@
 #include <stdlib.h>  
 #include <signal.h>  
 
-#define USAGE_ERR "Usage: ./Deamon FilePath/Filename\n" 
+#define USAGE_ERR "Usage: ./Deamon FilePath/Filename\n"  
 
 int IeventQueue = -1;
 int IeventStatus = -1;
